@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME : Karthikeyan K</h3>
 <h3>ENTER YOUR REGISTER NO : 212221230046</h3>
 <h3>EX. NO 6</h3>
-<h3>DATE<24.04.2024/h3>
+<h3>DATE: 24.04.2024</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
@@ -60,7 +60,6 @@ Google Colab with NVCC Compiler
 16. End of Algorithm
 
 ## PROGRAM:
-TYPE YOUR CODE HERE
 ~~~
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
